@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Jul 2023 17:20:12 at https://centre-d-accueil-isidore-bakanja-goma.hotelmix.fr +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://centre-d-accueil-isidore-bakanja-goma.hotelmix.fr -O1 "C:\Users\Nicole\Downloads\AZE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:20:46	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://centre-d-accueil-isidore-bakanja-goma.hotelmix.fr/)
+17:20:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/build/booked/app/site/www/frontend/img/svg/pages/all/ic_camera.257386c08b55ba8ebe48a72156f13275.svg (from https://static.bookcdn.com/build/booked/booked_bundle.a98e6c206ed5cb612e4191de5636e778.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/bower_components/select2/select2.png (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/bower_components/select2/select2-spinner.gif (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/bower_components/select2/select2x2.png (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/build/packs/css/i/pop-top-rep.png (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/build/packs/css/i/pop-bot-rep.png (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/build/packs/css/i/pop-t-l.png (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/build/packs/css/i/pop-t-r.png (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/build/packs/css/i/pop-b-l.png (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/build/packs/css/i/pop-b-r.png (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/images/ui-cal-arr.24938.png (from https://static.bookcdn.com/build/packs/css/main.pack.8b59f42a7ef084a007861d6a5f82ee36.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/build/packs/img/flags.png (from https://static.bookcdn.com/build/packs/css/main2.pack.bfdd13cec49734ceaf52a3e55f3cb52d.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/build/packs/img/flags@2x.png (from https://static.bookcdn.com/build/packs/css/main2.pack.bfdd13cec49734ceaf52a3e55f3cb52d.css)
+17:23:49	Error: 	"Not Found" (404) at link https://static.bookcdn.com/images/hap-close-50ea3b141e.gif (from https://static.bookcdn.com/build/packs/css/main2.pack.bfdd13cec49734ceaf52a3e55f3cb52d.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 38 seconds : 223 links scanned, 206 files written (6908868 bytes overall) [4794239 bytes received at 21991 bytes/sec], 3000920 bytes transferred using HTTP compression in 28 files, ratio 19%, 16.0 requests per connection
+(15 errors, 0 warnings, 0 messages)
